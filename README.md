@@ -5,7 +5,7 @@ This project visualizes publicly available healthcare access data using Power BI
 ## 🔗 Live Report
 
 View the interactive dashboard here:  
-[Healthcare Access Public Report](https://app.fabric.microsoft.com/view?r=eyJrIj...)
+[Healthcare Access Public Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNjI1M2I2NmItZmUxZC00OGViLWIwNDktZjk3N2RjZDY3OGMyIiwidCI6ImRkOTE3ZDQ3LWI2MzctNDAwMC1hNWY1LWMyMTI4N2Q3N2QxYSIsImMiOjZ9)
 
 > 📊 Powered by Microsoft Power BI and published via Fabric
 
